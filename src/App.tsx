@@ -9,10 +9,6 @@ function App() {
       <>
           <div>
               <img width={'100%'} src={img1} className="logo" alt="armenia"/>
-              {/*  <img width={'100%'} src={img4} className="logo" alt="Vite logo" />*/}
-              {/*<a href="https://react.dev" target="_blank">*/}
-              {/*  <img width={'100%'} src={img3} className="logo react" alt="React logo" />*/}
-              {/*</a>*/}
           </div>
           <h1>Туры по Армении</h1>
           <h3>
