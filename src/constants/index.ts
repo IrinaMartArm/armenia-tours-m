@@ -4,7 +4,7 @@ export const tours = [{
 		{row: 'Гарни (языческий храм I века) *', link: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BD%D0%B8_(%D1%85%D1%80%D0%B0%D0%BC)'},
 		{row: 'Симфония камней *', link: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BD%D0%B8_(%D1%83%D1%89%D0%B5%D0%BB%D1%8C%D0%B5)'},
 		{row: 'Гегард', link: 'https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B3%D0%B0%D1%80%D0%B4'}],
-	price: 3000,
+	price: '?',
 	price1: 20000,
 	price2: 25000,
 	time: '4 до 5',
