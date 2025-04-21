@@ -32,17 +32,17 @@ function App() {
                   <div className={'block'}>
                       {el.place.map(pl => <span>{' '}•{' '} <a className={'links'}>{pl.row}</a></span>)}
                   </div>
-                  <div className={'block'}>
-                      <span>1 чел. {el.price} драм</span>
-                      <span>1-4 чел. {el.price1} драм</span>
-                      <span>5-7 чел. {el.price2} драм</span>
-                  </div>
-                  {el.time && <span>Поездка займет примерно от {el.time} часов</span>}
-                  <div className={'block'}>
-                      <span>{el.comment1}</span>
-                      <span>{el.comment2}</span>
-                      <span>{el.comment3}</span>
-                  </div>
+                  {/*<div className={'block'}>*/}
+                  {/*    /!*<span>1 чел. {el.price} драм</span>*!/*/}
+                  {/*    <span>1-4 чел. {el.price1}$</span>*/}
+                  {/*    <span>5-7 чел. {el.price2}$</span>*/}
+                  {/*</div>*/}
+                  {/*{el.time && <span>Поездка займет примерно от {el.time} часов</span>}*/}
+                  {/*<div className={'block'}>*/}
+                  {/*    <span>{el.comment1}</span>*/}
+                  {/*    <span>{el.comment2}</span>*/}
+                  {/*    <span>{el.comment3}</span>*/}
+                  {/*</div>*/}
               </div>)}
           </div>
       </>
