@@ -88,7 +88,7 @@ export const tours = [{
 	price1: 55000,
 	price2: 65000,
 	time: '10 до 12',
-	comment1: '* Пещера Арени вход с человека 500',
+	comment1: '* Пещера Арени вход с человека 500 драм',
 	comment2: '',
 }, {
 		place: [
